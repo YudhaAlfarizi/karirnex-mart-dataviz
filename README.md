@@ -88,10 +88,8 @@ flowchart LR
     C --> D["📊 Dashboard"]
     D --> E["💡 Insight"]
     E --> F["✅ Rekomendasi"]
-
-    classDef step fill:#FFF7E0,stroke:#F2C811,stroke-width:2px,color:#111
-    class A,B,C,D,E,F step
 ```
+
 
 ## 🗂️ Dataset & Catatan Data
 
