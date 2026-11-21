@@ -152,7 +152,7 @@ karirnex-mart-dataviz/
 
 **Yudha Alfarizi** | Peserta Bootcamp Data Visualization KarirNex
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Terhubung-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudha-alfarizi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Terhubung-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudha-alfarizi-07588a286/)
 
 ---
 <div align="center">
