@@ -81,16 +81,17 @@ Satu toko FMCG, tiga tools, tiga sudut pandang. Setiap dashboard dibuat untuk me
 
 ## 🛠️ Alur Kerja & Skill
 
-```
-Data mentah → Cleaning → Pemodelan → Visualisasi → Insight & rekomendasi
-```
+```mermaid
+flowchart LR
+    A["❓ Pertanyaan<br/>Bisnis"] --> B["🧹 Bersihkan<br/>Data"]
+    B --> C["🧮 Model &<br/>KPI"]
+    C --> D["📊 Dashboard"]
+    D --> E["💡 Insight"]
+    E --> F["✅ Rekomendasi"]
 
-![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Prep-F2C811)
-![DAX](https://img.shields.io/badge/DAX-KPI%20Measures-F2C811)
-![Calculated Fields](https://img.shields.io/badge/Tableau-Calculated%20Fields-E97627)
-![Data Storytelling](https://img.shields.io/badge/Data-Storytelling-6f42c1)
-
----
+    classDef step fill:#FFF7E0,stroke:#F2C811,stroke-width:2px,color:#111
+    class A,B,C,D,E,F step
+```
 
 ## 🗂️ Dataset & Catatan Data
 
