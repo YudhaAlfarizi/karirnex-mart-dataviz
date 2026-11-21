@@ -131,8 +131,7 @@ Seluruh dataset adalah **data dummy dari bootcamp**, sengaja dibiarkan apa adany
 
 ```
 karirnex-mart-dataviz/
-├── assets/     
-├── data/   
+├── assets/       
 ├── powerbi/    
 ├── tableau/
 └── README.md
