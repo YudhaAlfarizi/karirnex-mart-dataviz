@@ -17,15 +17,14 @@
 
 ---
 
-## ✨ Sekilas
 
-Satu toko FMCG, tiga tools, tiga sudut pandang. Setiap dashboard dibuat untuk menjawab pertanyaan yang berbeda.
+## 📌 Ringkasan
 
-| 💰 Revenue | 📦 Profit | 🎯 Achievement | ✅ Success Rate | ⭐ Avg Rating |
-|:---:|:---:|:---:|:---:|:---:|
-| **Rp773,03 jt** | **Rp237,95 jt** | **99,9%** | **85,5%** | **4,03** |
+Repositori ini berisi **portofolio Data Visualization** dari bootcamp **Data Visualization: Power BI, Tableau, dan Google Looker Studio** bersama **KarirNex** (29–31 Oktober 2026).
 
-> Angka di atas berasal dari dashboard Power BI dan Tableau (order berstatus Success).
+Saya menganalisis data transaksi dummy toko FMCG **KarirNex Mart** tahun 2025 dan memfokuskan analisis pada satu pertanyaan bisnis: **bagaimana performa penjualan sepanjang 2025, dan di mana omzet serta keuntungannya bocor?**
+
+Hasilnya adalah tiga dashboard interaktif, masing-masing dibuat dengan tool berbeda, yang mengubah sekitar 20.000 order transaksi menjadi gambaran yang mudah dibaca oleh pengambil keputusan.
 
 | Tool | Pertanyaan yang dijawab |
 |---|---|
