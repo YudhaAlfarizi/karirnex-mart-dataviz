@@ -13,8 +13,6 @@
 ![Periode](https://img.shields.io/badge/Periode-2025-orange)
 ![Program](https://img.shields.io/badge/Program-KarirNex-red)
 
-[📈 Power BI](#-1-power-bi--sales-kpi-dashboard) · [📖 Tableau](#-2-tableau--cerita-di-balik-angka) · [🧭 Looker Studio](#-3-looker-studio--dashboard-penjualan-fmcg) · [🗂️ Dataset](#️-dataset--catatan-data)
-
 </div>
 
 ---
@@ -130,10 +128,10 @@ Seluruh dataset adalah **data dummy dari bootcamp**, sengaja dibiarkan apa adany
 
 ```
 karirnex-mart-dataviz/
-├── assets/     # Pratinjau dashboard
-├── data/       # Dataset Day 1, 2, 3
-├── powerbi/    # File .pbix
-├── tableau/    # Workbook Tableau (.twbx)
+├── assets/     
+├── data/   
+├── powerbi/    
+├── tableau/
 └── README.md
 ```
 
@@ -151,11 +149,9 @@ karirnex-mart-dataviz/
 
 **Yudha Alfarizi** | Peserta Bootcamp Data Visualization KarirNex
 
-[![GitHub](https://img.shields.io/badge/GitHub-USERNAME-181717?logo=github)](https://github.com/USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Terhubung-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Terhubung-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudha-alfarizi))
 
 ---
-
 <div align="center">
 
 🙏 Terima kasih kepada **KarirNex** dan para mentor atas bimbingan selama bootcamp.
