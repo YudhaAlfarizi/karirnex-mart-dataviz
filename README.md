@@ -26,12 +26,15 @@ Saya menganalisis data transaksi dummy toko FMCG **KarirNex Mart** tahun 2025 da
 
 Hasilnya adalah tiga dashboard interaktif, masing-masing dibuat dengan tool berbeda, yang mengubah sekitar 20.000 order transaksi menjadi gambaran yang mudah dibaca oleh pengambil keputusan.
 
+<div align="center">
+
 | Tool | Pertanyaan yang dijawab |
 |---|---|
 | **Power BI** | Apakah penjualan mencapai target? Bulan dan channel mana yang tertinggal? |
 | **Tableau** | Produk mana yang laris tetapi tidak untung? |
 | **Looker Studio** | Di mana order gagal dan bagaimana pola wilayah, ongkir, dan diskon? |
 
+</div>
 ---
 
 ## 📈 1. Power BI | Sales KPI Dashboard
